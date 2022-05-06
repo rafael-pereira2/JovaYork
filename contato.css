@@ -1,0 +1,57 @@
+.principal{
+    display: flex;              
+}
+.IMGEsquerda{
+    display: flex;
+    width: 29%;    
+   
+}
+.contato{
+    display: block;    
+    padding-right: 60px;    
+    width: 40%;
+}
+.Fale-Conosco{
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;   
+    margin: 5% 1% 0% 18%; 
+    font-size: 44px;
+}
+
+#txtNome,#txtEmail{
+    display: flex;
+    margin: 10% 1% 10% 22%; 
+    width: 450px;
+    height: 48px;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+}
+
+#txtMensagem{
+    display: flex;    
+    width: 350px;
+    margin:10% 1% 10% 30%;
+    border-radius: 10px;
+    font-size: 18px;
+    color: black;
+}
+
+#btnEnviar{
+    display: flex;    
+    align-items:center;
+    justify-content: center;      
+    margin: 15% 1% 10% 45%;
+    border-radius: 10px;     
+    width: 130px;
+    height: 60px;    
+    background-color: black;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.IMGDireita{
+    display: flex;
+    width: 29%;
+}
