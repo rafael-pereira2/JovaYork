@@ -7,8 +7,8 @@
 }
 .pato{
     display: flex;        
-    width: 560px;
-    height: 740px;    
+    width: 260px;
+    height: 540px;    
 }
 
 .conteudo-principal{
@@ -30,6 +30,6 @@
 }
 .video{
     display: flex; 
-    width: 740px;
-    height: 415px;
+    width: 540px;
+    height: 315px;
 }
