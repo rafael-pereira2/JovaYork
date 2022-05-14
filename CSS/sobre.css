@@ -1,31 +1,32 @@
 .principal{
- display: flex; 
- margin-right: 305px; 
-}
-.alien{
-    display: flex;
-    width: 130%;    
-}
-.historia{      
-    padding: 35px;  
-    margin: 3% 0% auto 0%;            
-    font-size: 20px; 
-    text-align: justify;       
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-    backdrop-filter: blur( 5px );
-    -webkit-backdrop-filter: blur( 5px );
-    border-radius: 25px;
-    border: 1px solid rgba( 255, 255, 255, 0.18 );
-    background-color: rgba(0, 0, 0, 0.52);
-}
-
-.titulo{
-    display: flex;
-    font-size: 40px;
-    margin-bottom: 34px;
-}
-
-.historia-conteudo{
-    display: flex;
-    margin-bottom: 25px;
-}
+    display: flex; 
+    margin-right: 305px; 
+   }
+   .alien{
+       display: flex;
+       width: 130%;    
+   }
+   .historia{      
+       padding: 35px;  
+       margin: 3% 0% auto 0%;            
+       font-size: 15px; 
+       text-align: justify;       
+       box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+       backdrop-filter: blur( 5px );
+       -webkit-backdrop-filter: blur( 5px );
+       border-radius: 25px;
+       border: 1px solid rgba( 255, 255, 255, 0.18 );
+       background-color: rgba(0, 0, 0, 0.52);
+   }
+   
+   .titulo{
+       display: flex;
+       justify-content: center;
+       font-size: 25px;
+       margin-bottom: 34px;
+   }
+   
+   .historia-conteudo{
+       display: flex;
+       margin-bottom: 25px;
+   }

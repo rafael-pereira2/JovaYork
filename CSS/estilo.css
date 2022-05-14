@@ -1,0 +1,35 @@
+.principal{
+    display: flex;
+    margin-top: 1%;    
+    align-items: center; 
+    justify-content: center;
+    gap: 25%;    
+}
+.pato{
+    display: flex;        
+    width: 260px;
+    height: 540px;    
+}
+
+.conteudo-principal{
+    margin-right: 90px;
+}
+
+.titulo{
+    display: flex;  
+    justify-content: center;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.titulo-video{
+    display: flex;    
+    justify-content: center;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 5px;    
+}
+.video{
+    display: flex; 
+    width: 540px;
+    height: 315px;
+}
