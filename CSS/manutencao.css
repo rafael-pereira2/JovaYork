@@ -1,0 +1,12 @@
+.principal{
+    display: flex;
+    
+}
+.obras-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    width: 70%;
+    height: 80%;
+}
